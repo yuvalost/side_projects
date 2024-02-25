@@ -1,19 +1,8 @@
-FROM node:14
+FROM openjdk:8-jre-alpine
 
-WORKDIR /app
+EXPOSE 6000
 
-COPY package.json .
+COPY ./build/libs/my-app-1.0-SNAPSHOT.jar /usr/app/
+WORKDIR /usr/app
 
-ENV PORT 80
-
-ARG DEFAULT_PORT=8090
-
-RUN npm install
-
-Copy . .
-
-Expose $PORT
-
-
-
-CMD ["node","server.js"]
+ENTRYPOINT ["java", "-jar", "my-app-1.0-SNAPSHOT.jar"]
