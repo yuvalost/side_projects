@@ -5,18 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="611ae8e8-8c71-4cf1-918e-454c661b4e47" name="Changes" comment="fix">
+      <change afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/Sudoko_solver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/side_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/side_projects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/Poker_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/Poker_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/SlotMachinegame.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/SlotMachinegame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/Tetris.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/Tetris.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/bad_version_story_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/bad_version_story_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/couples_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/couples_Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/dad_jokes.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/dad_jokes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/dice game.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/dice game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/dice throw.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/dice throw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/dice_roll.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/dice_roll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/guessing game.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/guessing game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/harry_potter_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/harry_potter_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/math_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/math_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/rps.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/rps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/story game.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/story game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/story_insert/story1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/story_insert/story1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/story_insert/story_insert-game.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/story_insert/story_insert-game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/test file.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/test file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/tik_tak_toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/tik_tak_toe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuvals_personal_projects/side_projects/yo_mama.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuvals_personal_projects/Game_engine/yo_mama.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -27,15 +58,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yuval/PycharmProjects/side_projects/pipeline_project&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Sudoko_solver.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/yuval/PycharmProjects/side_projects/pipeline_project",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yuval\PycharmProjects\side_projects\pipeline_project" />
